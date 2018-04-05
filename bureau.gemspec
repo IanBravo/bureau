@@ -6,8 +6,8 @@ require "bureau/version"
 Gem::Specification.new do |spec|
   spec.name          = "bureau"
   spec.version       = Bureau::VERSION
-  spec.authors       = ["Walter Reyes", "Kevin Muro"]
-  spec.email         = ["wal.reyes.11@gmail.com", "kevinomuro@gmail.com"]
+  spec.authors       = ["Ian Bravo"]
+  spec.email         = ["ian@icalialabs.com"]
 
 
   spec.summary       = "Write a short summary, because RubyGems requires one."
